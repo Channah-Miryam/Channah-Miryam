@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="networkgif.gif" alt="animated network of stars">
+<img src="alice in wonderland.jpg" alt="I knew who I was this morning, but I have changed a few times since then" width="300">
 </div>
 
 ### Hi there 👋
