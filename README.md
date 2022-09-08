@@ -11,7 +11,7 @@
 <br/>
 :hammer: The projects listed here, were created to practice aspects of development and may not be complete (yet).
 <br/>
-Actually, some of them were never meant to be completed.
+Actually, some of them were never meant to be completed and will remain longing their completion in eternity.
 
 📫 How to reach me: This is a good question... without an easy answer. 
 <br/>
