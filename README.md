@@ -8,6 +8,7 @@
 
 :eyes: To view my most recent projects, please, visit: <a href="https://github.com/Accessibility-Security-Development">Accessibility and security are cool!</a>
 <br/>
+<br/>
 :hammer: The projects listed here, were created to practice aspects of development and may not be complete (yet).
 <br/>
 Actually, some of them were never meant to be completed.
