@@ -6,6 +6,8 @@
 
 🔭 Myself is Under Construction. 
 
+:eyes: To view my most recent projects, please, visit: <a href="https://github.com/Accessibility-Security-Development">Accessibility and security are cool!</a>
+
 📫 How to reach me: This is a good question... without an easy answer. 
 <br/>
 You could try: jobs@infosec.mailer.me.
