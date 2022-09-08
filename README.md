@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- 🔭 Under construction. 
+- 🔭 Myself is Under Construction. 
 
 - 📫 How to reach me: This is a good question... without an easy answer. 
       You could try: jobs@infosec.mailer.me.
