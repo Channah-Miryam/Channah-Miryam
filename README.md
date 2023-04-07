@@ -8,6 +8,7 @@
 
 :eyes: All my projects at the moment are private.</a>
 <br/>
+<br/>
 :hammer: The projects listed here, were created to practice aspects of development or security and may not be complete (yet).
 <br/>
 Actually, some of them were never meant to become whole and will remain longing their completion in eternity. :cry:
